@@ -4,7 +4,7 @@ ESR DEPARTMENTAL STORE
 
 #E-grocery store webpage 
 
-using HTML,CSS, JS
+HTML,CSS, JS, BOOTSTRAP
 
 Page:
 https://anur27.github.io/esr/
